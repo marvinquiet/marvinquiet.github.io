@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+layout: archive 
+title: "Personal CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2010-2014
 * M.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2014-2017
-# * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
+### Work experience
 ======
 * Aug 2018-Present: Visiting Scholar
   * University of Virginia
@@ -30,7 +29,7 @@ Work experience
   * Baidu @Beijing
   * Duties included: LBS-based Android app development
 
-Skills
+### Skills
 ======
 * Programming Language: Java, Python, R
 * Development Skill
@@ -39,24 +38,5 @@ Skills
 * Bioinformatic
   * ChIP-seq Analysis
 
-Publications
+### Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Talks
-# ======
-#   <ul>{% for post in site.talks %}
-#     {% include archive-single-talk-cv.html %}
-#   {% endfor %}</ul>
-  
-# Teaching
-# ======
-#   <ul>{% for post in site.teaching %}
-#     {% include archive-single-cv.html %}
-#   {% endfor %}</ul>
-  
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
