@@ -1,5 +1,3 @@
-### Quick Web Development
-
 I am fresh new to Web Development, which means, I haven't developed any application related to web before. However, due to research reason, we could not always let researchers download our Python or R package, and run data themselves. For one, our simulation consumes a lot of CPU cores which not every researcher owns; for another, there are plenty installation issues due to different OS. Fortunately, I have experience in programming, especially in Python and Java. Then, why not having a try? 
 
 ### Step 1: Choose a Framework
