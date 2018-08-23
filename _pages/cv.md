@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-======
 * B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2010-2014
 * M.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2014-2017
 
 ### Work experience
-======
 * Aug 2018-Present: Visiting Scholar
   * University of Virginia
   * Duties included: Bioinformatic tools development, ChIP-seq Data Analysis
@@ -30,7 +28,6 @@ redirect_from:
   * Duties included: LBS-based Android app development
 
 ### Skills
-======
 * Programming Language: Java, Python, R
 * Development Skill
   * Android 
@@ -39,4 +36,3 @@ redirect_from:
   * ChIP-seq Analysis
 
 ### Publications
-======
