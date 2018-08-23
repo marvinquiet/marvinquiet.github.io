@@ -76,7 +76,7 @@ Take Flask as an example, the only thing you need to know is:
       return render_template('result.html', results=results) # passing values to html
   ```
 
-  ```html
+  ```js
   {% for urlFile in results['url_file'] %}
      <a href="{{ urlFile[0] }}" download> {{ urlFile[1] }}</a>
   {% endfor %}
