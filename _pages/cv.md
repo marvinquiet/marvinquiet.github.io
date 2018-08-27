@@ -12,11 +12,12 @@ redirect_from:
 ### Education
 * B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2010-2014
 * M.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2014-2017
+* Exchange student, Institute of Technology, Linköping University, Sweden, 2015-2016
 
 ### Work experience
 * Aug 2018-Present: Visiting Scholar
   * University of Virginia
-  * Duties included: Bioinformatic tools development, ChIP-seq Data Analysis
+  * Duties included: Bioinformatic tools development, ChIP-seq/RNA-seq
   * Supervisor: Professor Chongzhi Zang
 
 * Jun 2016-Sept 2016: Software Engineer Internship
@@ -34,5 +35,6 @@ redirect_from:
   * Web
 * Bioinformatic
   * ChIP-seq Analysis
+  * RNA-seq Analysis
 
 ### Publications
