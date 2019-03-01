@@ -18,10 +18,9 @@ redirect_from:
 * Aug 2018-Present: Visiting Scholar
   * University of Virginia
   * Research Area: 
-    * Bioinformatic tools development: [BART web server](http://bartweb.uvasomrc.io/)
-    * Build potential TF bindings library
-    * ChIP-seq/RNA-seq analysis on Androgen Receptor
-    * Splitting barcodes on single cell analysis
+    * Bioinformatic tools development: [BARTweb](http://bartweb.org/)
+    * Epigenetics, transcriptional regulation
+    * Single cell gene regulatory mechanism
   * Advisor: [Prof. Chongzhi Zang](http://faculty.virginia.edu/zanglab/people.htm)
 * Aug 2015-Jan 2016: Exchange Student
   * Linköping University
@@ -40,17 +39,9 @@ redirect_from:
   * Duties included: LBS-based Android app development
 
 ### Skills
-* Programming Language: Python, R, Java, Linux Shell 
+* Programming Language: Python, R, Java, Linux Bash
 * Development Skill
   * Android 
   * Web
-* Bioinformatic
-  * ChIP-seq Analysis
-  * RNA-seq Analysis
-  * ATAC-seq Analysis
-  * Single Cell Analysis
-* Statistics
-  * Regression Model, HMM
-  * Dimensionality Reduction Algorithm: PCA, t-SNE
-
-### Publications
+* Bioinformatics
+  * Next-generation sequencing technologies
