@@ -1,6 +1,6 @@
 ---
 layout: archive 
-title: "Personal CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,18 +30,20 @@ redirect_from:
   * Advisor: [Dr. Cyrille Berger](https://www.ida.liu.se/divisions/aiics/people.en.shtml)
 
 ### Working experience
+* July 2017-Jun 2018: Database Administrator
+  * State Administration of Foreign Exchange, Investment Center @Beijing
+  * Duties included: Database daily maintainance, automatic maintainance tools development
 * Jun 2016-Sept 2016: Software Engineer Internship
   * Freewheel @Beijing
   * Duties included: Automatic Testing tools development
-
 * Nov 2014-Mar 2015: Software Engineer Internship
   * Baidu @Beijing
   * Duties included: LBS-based Android app development
 
 ### Skills
-* Programming Language: Python, R, Java, Linux Bash
+* Programming Language: Proficient in Python, Java, R, Linux Bash
 * Development Skill
   * Android 
   * Web
 * Bioinformatics
-  * Next-generation sequencing technologies
+  * Next-generation sequencing analysis
