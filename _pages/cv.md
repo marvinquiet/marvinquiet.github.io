@@ -10,19 +10,25 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-* B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2010-2014
 * M.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2014-2017
-* Exchange student, Institute of Technology, Linköping University, Sweden, 2015-2016
+* Exchange student in Institute of Technology, Linköping University, Sweden, 2015-2016
+* B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), 2010-2014
 
 ### Academic experience
-* Aug 2018-Present: Visiting Scholar
+* Aug 2019 - Present: Ph.D. student on Biomedical Informatics track in CSI Program
+  * Emory University
+  * Research Area:
+    * Methods development in single-cell data analysis
+    * Deconvolute bulk genomcis data into single-cell level
+  * Advisor: [Dr. Zhaohui "Steve" Qin](https://www.sph.emory.edu/faculty/profile/#!ZQIN4)
+* Aug 2018 - Jun 2019: Visiting Scholar
   * University of Virginia
   * Research Area: 
     * Bioinformatic tools development: [BARTweb](http://bartweb.org/)
     * Epigenetics, transcriptional regulation
     * Single cell gene regulatory mechanism
-  * Advisor: [Prof. Chongzhi Zang](http://faculty.virginia.edu/zanglab/people.htm)
-* Aug 2015-Jan 2016: Exchange Student
+  * Advisor: [Dr. Chongzhi Zang](http://faculty.virginia.edu/zanglab/people.htm)
+* Aug 2015 - Jan 2016: Exchange Student
   * Linköping University
   * Research Area:
     * Multi-Agent System (MAS) communication
@@ -41,9 +47,10 @@ redirect_from:
   * Duties included: LBS-based Android app development
 
 ### Skills
-* Programming Language: Proficient in Python, Java, R, Linux Bash
+* Programming Language: Python, Java, R, Shell, SAS
 * Development Skill
   * Android 
   * Web
+  * Pipeline
 * Bioinformatics
-  * Next-generation sequencing analysis
+  * Next-generation sequencing analysis 
