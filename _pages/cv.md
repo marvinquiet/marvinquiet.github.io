@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![link to my formatted CV](/files/CV_WenjingMa.pdf)
+[link to my formatted CV](/files/CV_WenjingMa.pdf)
 
 ### Education
 
