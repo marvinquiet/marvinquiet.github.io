@@ -23,7 +23,5 @@ author_profile: true
 
 - BARTweb: a web server for functional transcription factor prediction, *Research in Computational Molecular Biology (RECOMB)*, Washington, D.C., U.S. May 2019.
 
-  ```
   ![RECOMB poster](/images/RECOMB2019_poster.png)
-  ```
 

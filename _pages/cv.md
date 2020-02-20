@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://drive.google.com/file/d/1CnKTv1poVFX6gbRMriEv7VhfJtkGI64U/view?usp=sharing)
+[link to my formatted CV](https://drive.google.com/file/d/1CnKTv1poVFX6gbRMriEv7VhfJtkGI64U/view?usp=sharing)
 
 ### Education
 
 * Ph.D. student in Computer Science and Informatics (BMI track), Department of Computer Science, Emory University, Atlanta, GA, 08/2019 -
 * Visiting scholar in Bioinformatics, Center for Public Health Genomics, University of Virginia, Charlottesville, VA, 08/2018 - 06/2019
-* M.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), Beijing, China, 09/2014 - 06/2017
+* M.S. in Computer Science,Institute of Network Technology, BUPT(Beijing University of Posts and Telecommunications), Beijing, China, 09/2014 - 06/2017
 * Exchange student in Computer Science, Institute of Technology, Linköping University, Linköping, Sweden, 08/2015 - 01/2016
-* B.S. in Computer Science, BUPT(Beijing University of Posts and Telecommunications), Beijing, China, 09/2010 - 06/2014
+* B.S. in Computer Science, School of Computer Science, BUPT, Beijing, China, 09/2010 - 06/2014
 
 ### Academic experience
 * 08/2019 - Present: Ph.D. student on Biomedical Informatics track in CSI Program @ Emory Universtity
