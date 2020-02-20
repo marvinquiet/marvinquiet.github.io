@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[link to my formatted CV](https://drive.google.com/file/d/1CnKTv1poVFX6gbRMriEv7VhfJtkGI64U/view?usp=sharing)
+![link to my formatted CV](/files/)
 
 ### Education
 
