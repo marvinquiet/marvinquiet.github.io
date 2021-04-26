@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WENJING MA"
 title_separator          : "-"
 name                     : &name "Wenjing Ma"
-description              : &description "Visiting scholar at zanglab in UVA"
+description              : &description "Ph.D. Student in Computer Science at Emory"
 url                      : https://marvinquiet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marvinquiet.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Wenjing Ma"
   avatar           : "profile.png"
-  bio              : "Do meaningful things, live meaningful life."
+  bio              : "Aiming for an abundance mindset. // Live a meaningful life."
   location         : "Atlanta, GA, United States"
   employer         :
-      #  googlescholar    : "http://scholar.google.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=yQOhaRAAAAAJ"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :

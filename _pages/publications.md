@@ -17,7 +17,7 @@ author_profile: true
 
 ### Publications
 
-- **Wenjing Ma**, Zhenjia Wang, Yifan Zhang, Neal E Magee, Yang Chen and Chongzhi Zang. BARTweb: a web server for transcription factor association analysis. Feb 2020. [biorxiv](https://www.biorxiv.org/content/10.1101/2020.02.17.952838v1) [website](http://bartweb.org/)
+- **Wenjing Ma**, Zhenjia Wang, Yifan Zhang, Neal E. Magee, Yayi Feng, Ruoyao Shi, Yang Chen, Chongzhi Zang. BARTweb: a web server for transcriptional regulator association analysis. *NAR Genomics and Bioinformatics*, (2021). [DOI link](https://https://doi.org/10.1093/nargab/lqab022) [BARTweb link](http://bartweb.org/)
 
 ### Poster
 
