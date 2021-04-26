@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Publications
-
 - **Wenjing Ma**, Zhenjia Wang, Yifan Zhang, Neal E. Magee, Yayi Feng, Ruoyao Shi, Yang Chen, Chongzhi Zang. BARTweb: a web server for transcriptional regulator association analysis. *NAR Genomics and Bioinformatics*, (2021). [DOI link](https://https://doi.org/10.1093/nargab/lqab022) [BARTweb link](http://bartweb.org/)
 
 ### Poster
