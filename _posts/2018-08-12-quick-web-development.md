@@ -75,12 +75,12 @@ Take Flask as an example, the only thing you need to know is:
   ```
 
   ```html
-  \{% for urlFile in results['url_file'] %\}
+  {% for urlFile in results['url_file'] %}
      <a href="{{ urlFile[0] }}" download> {{ urlFile[1] }}</a>
-  \{% endfor %\}
+  {% endfor %}
   ```
 
-  Therefore, in thise case, `href = \{\{ urlFile[0] \}\}` related to the url, and `\{\{ urlFile[1] \}\}` will show file name.
+  Therefore, in thise case, `href = {{ urlFile[0] }}` related to the url, and `{{ urlFile[1] }}` will show file name.
 
   When the link is clicked, it will trigger the `@app.route('/download/<userkey_filename>')` to find the file directory, and sent the file from that directory.
 
