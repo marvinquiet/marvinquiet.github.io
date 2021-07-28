@@ -231,12 +231,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _software
   - scope:
       path: ""
-      type: talks
+      type: software
     values:
-      layout: talk
+      layout: software
       author_profile: true
       share: true
 

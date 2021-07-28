@@ -41,4 +41,4 @@ For your reference, the table below indicates the data amount we involve in our 
 | BARTweb V1.1 |     366/267     |      7032/5023      |  883/531  | 2732010/1529448 |
 | BARTweb V1.2 |    1230/737     |      7987/5887      | 1300/700  | 4157285/2687740 |
 
-For the mechanism behind BARTweb, please refer to the slides by this [link](https://www.dropbox.com/s/7o7duis8ftzz9yi/BARTweb_Wenjing_2018.01.18.pptx?dl=0).
+For more details behind BARTweb, please refer to the slides by this [link](https://www.dropbox.com/s/7o7duis8ftzz9yi/BARTweb_Wenjing_2018.01.18.pptx?dl=0).
