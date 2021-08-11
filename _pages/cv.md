@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[link to my formatted CV](/files/CV_WenjingMa.pdf)
+[CV pdf](/files/CV_WenjingMa.pdf)
 
 ### Education
 
@@ -22,9 +22,10 @@ redirect_from:
 ### Academic experience
 * 08/2019 - Present: Ph.D. student on Biomedical Informatics track in CSI Program @ Emory Universtity
   * Research Area:
-    * Key cell type identification in bulk experiments through single-cell RNA-seq data analysis
-    * Prediction of mutations from gene expression profiles
-  * Advisor: [Dr. Zhaohui "Steve" Qin](https://www.sph.emory.edu/faculty/profile/#!ZQIN4)
+    * Key sub-cell type identification in bulk experiments through single-cell RNA-seq data analysis (with [Dr. Zhaohui "Steve" Qin](http://steveqinlab.org/))
+    * Reference construction strategies for cell typing
+    * Multi-omics integration with applications to neurodegenerative diseases, cancers, etc
+  * Advisor: [Dr. Hao Wu](http://www.haowulab.org/)
 * 08/2018 - 06/2019: Visiting Scholar in Bioinformatics @ University of Virginia
   * Research Area: 
     * Bioinformatic tools development: [BARTweb](http://bartweb.org/)
@@ -34,7 +35,6 @@ redirect_from:
 * Aug 2015 - Jan 2016: Exchange Student @ Linköping University
   * Research Area:
     * Multi-Agent System (MAS) communication
-    * Use known algorithms to solve new problem under good or poor communication condition
   * Advisor: [Dr. Cyrille Berger](https://www.ida.liu.se/divisions/aiics/people.en.shtml)
 
 ### Working experience
