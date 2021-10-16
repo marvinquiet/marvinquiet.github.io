@@ -29,7 +29,15 @@ author_profile: true
 
 ### Poster
 
+- *Honorable Mention*. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2021.
+  
+  <img src="/images/GSD2021_poster.pdf" width="300" />
+
 - BARTweb: a web server for functional transcription factor prediction, *Research in Computational Molecular Biology (RECOMB)*, Washington, D.C., U.S. May 2019.
 
-  ![RECOMB poster](/images/RECOMB2019_poster.png)
+  <img src="/images/RECOMB2019_poster.png" width=300 />
 
+
+### Talk
+
+- *5-min presentation award*. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *2nd Annual Workshop, Emerging Data Science Methods for Complex Biomedical and Cyber Data*, Augusta, GA, U.S. Oct 2021.
