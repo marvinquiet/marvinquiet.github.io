@@ -27,7 +27,7 @@ author_profile: true
 - Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under review, (2021).
 
 
-### Poster
+## Poster
 
 - **Honorable Mention**. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2021.
   
@@ -38,6 +38,6 @@ author_profile: true
   <img src="/images/RECOMB2019_poster.png" width=300 />
 
 
-### Talk
+## Talk
 
 - **5-min presentation award**. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *2nd Annual Workshop, Emerging Data Science Methods for Complex Biomedical and Cyber Data*, Augusta, GA, U.S. Oct 2021.
