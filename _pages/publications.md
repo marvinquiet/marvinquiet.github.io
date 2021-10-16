@@ -40,4 +40,4 @@ author_profile: true
 
 ## Talk
 
-- **5-min presentation award**. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *2nd Annual Workshop, Emerging Data Science Methods for Complex Biomedical and Cyber Data*, Augusta, GA, U.S. Oct 2021.
+- **Best 5-minutes presentation award**. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq, *2nd Annual Workshop, Emerging Data Science Methods for Complex Biomedical and Cyber Data*, Augusta, GA, U.S. Oct 2021.
