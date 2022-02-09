@@ -18,12 +18,9 @@ author_profile: true
 
 ### Published
 
+- **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. Accepted by *Briefings in Bioinformatics*, (2022). [R package](bioconductor.org/packages/release/bioc/html/LRcell.html), [bioRxiv](https://doi.org/10.1101/2021.08.10.455821) DOI coming soon.
 - **Wenjing Ma**, Kenong Su, Hao Wu. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq: classifier, feature selection, and reference construction. *Genome Biology*, (2021). [DOI](https://doi.org/10.1186/s13059-021-02480-2), [project](https://github.com/marvinquiet/RefConstruction_supervisedCelltyping)
 - **Wenjing Ma**\*, Zhenjia Wang\*, Yifan Zhang, Neal E. Magee, Yayi Feng, Ruoyao Shi, Yang Chen, Chongzhi Zang. BARTweb: a web server for transcriptional regulator association analysis. *NAR Genomics and Bioinformatics*, (2021). [DOI](https://doi.org/10.1093/nargab/lqab022), [BARTweb](http://bartweb.org/)
-
-### Under Revision
-
-- **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. Under review, (2021). [R package](bioconductor.org/packages/release/bioc/html/LRcell.html), [bioRxiv](https://doi.org/10.1101/2021.08.10.455821)
 
 ### Under Review
 
