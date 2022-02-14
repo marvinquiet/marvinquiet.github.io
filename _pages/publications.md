@@ -24,6 +24,7 @@ author_profile: true
 
 ### Under Review
 
+- Yulin Jin, Kenong Su, Ha Eun Kong, **Wenjing Ma**, Zhiqin Wang, Yujing Li, Ronghua Li, Emily Allen, Hao Wu, Peng Jin. Cell-type specific DNA methylome signatures reveal epigenetic mechanisms for neuronal diversity and neurodevelopmental disorder. Under review, (2022).
 - Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under review, (2021).
 - Shengen Shawn Hu, Lin Liu, Qi Li, **Wenjng Ma**, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. Accurate estimation of intrinsic biases for improved analysis of chromatin accessibility sequencing data using SELMA. Under review, (2021). [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.22.465530v1)
 
