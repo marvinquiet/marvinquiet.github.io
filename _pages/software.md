@@ -11,6 +11,10 @@ author_profile: true
 
 Here is a list of software packages and web pages develped by me.
 
+### Python/Conda package
+
+- [Cellcano](https://marvinquiet.github.io/Cellcano/): Cellcano is developed to do supervised cell type identification (celltyping) in scATAC-seq data. Cellcano is a two-round algorithm which utilizes confident cells predicted in the first round to predict remaining cells in the second round. [PyPI](https://pypi.org/project/Cellcano/), [conda](https://anaconda.org/marvinquiet/cellcano-all), [code](https://github.com/marvinquiet/Cellcano)
+
 ### Bioconductor package
 
 - [LRcell](http://bioconductor.org/packages/release/bioc/html/LRcell.html) (Differential **cell** type change analysis using **L**ogitstic/linear **R**egression): LRcell is developed to identify specific (sub-)cell types that drives the changes observed in a bulk RNA-seq differential gene expression experiment. 
@@ -21,4 +25,5 @@ Here is a list of software packages and web pages develped by me.
 
 ### Research pipleines
 
-- Explorations on strategies of constructing reference dataset for celltyping. Our paper is currently under review and once it gets published, I will put the code link here. [project link](https://github.com/marvinquiet/RefConstruction_supervisedCelltyping)
+- Explorations on strategies of constructing reference dataset for celltyping. Our paper titled "Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq: classifier, feature selection, and reference construction" is accepted on *Genome Biology*. [benchmark code](https://github.com/marvinquiet/RefConstruction_supervisedCelltyping), [paper](https://doi.org/10.1186/s13059-021-02480-2)
+
