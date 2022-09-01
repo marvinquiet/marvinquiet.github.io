@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-
-Here is a list of software packages and web pages develped by me.
-
 ### Python/Conda package
 
 - [Cellcano](https://marvinquiet.github.io/Cellcano/): Cellcano is developed to do supervised cell type identification (celltyping) in scATAC-seq data. Cellcano is a two-round algorithm which utilizes confident cells predicted in the first round to predict remaining cells in the second round. [PyPI](https://pypi.org/project/Cellcano/), [conda](https://anaconda.org/marvinquiet/cellcano-all), [code](https://github.com/marvinquiet/Cellcano)
