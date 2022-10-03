@@ -18,7 +18,9 @@ author_profile: true
 
 ### Published papers
 
-- **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. *Briefings in Bioinformatics*, (2022). [R package](bioconductor.org/packages/release/bioc/html/LRcell.html), [DOI](https://doi.org/10.1093/bib/bbac063).
+- Shengen Shawn Hu, Lin Liu, Qi Li, **Wenjng Ma**, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA. *Nature Communications*, (2022). [DOI](https://*doi*.org/*10.1038*/*s41467*-*022-33194*-*z*), [package](https://github.com/zang-lab/SELMA)
+
+- **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. *Briefings in Bioinformatics*, (2022). [DOI](https://doi.org/10.1093/bib/bbac063), [R package](bioconductor.org/packages/release/bioc/html/LRcell.html)
 - **Wenjing Ma**, Kenong Su, Hao Wu. Evaluation of some aspects in supervised cell type identification for single-cell RNA-seq: classifier, feature selection, and reference construction. *Genome Biology*, (2021). [DOI](https://doi.org/10.1186/s13059-021-02480-2), [project](https://github.com/marvinquiet/RefConstruction_supervisedCelltyping)
 - **Wenjing Ma**\*, Zhenjia Wang\*, Yifan Zhang, Neal E. Magee, Yayi Feng, Ruoyao Shi, Yang Chen, Chongzhi Zang. BARTweb: a web server for transcriptional regulator association analysis. *NAR Genomics and Bioinformatics*, (2021). [DOI](https://doi.org/10.1093/nargab/lqab022), [BARTweb](http://bartweb.org/)
 
@@ -28,9 +30,8 @@ author_profile: true
 
 ### Under Review
 
-- **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Under review, (2022). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
-- Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under review, (2021).
-- Shengen Shawn Hu, Lin Liu, Qi Li, **Wenjng Ma**, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. Accurate estimation of intrinsic biases for improved analysis of chromatin accessibility sequencing data using SELMA. Under review, (2021). [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.10.22.465530v1)
+- **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Under revision, (2022). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
+- Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under revision, (2021).
 
 
 ## Poster
