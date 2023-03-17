@@ -19,7 +19,10 @@ author_profile: true
 
 
 ### Published papers
-
+- **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Nature Communications (In press), (2022). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
+  - Poster won [**3rd place** (out of 47)](https://franklin.uga.edu/news/stories/2022/uga-welcomed-academic-industry-partners-georgia-statistics-day) at *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2022. 
+  - [**2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award**](https://drive.google.com/file/d/16QTIPtHfQhACbifpEt8HCOSJCIJSYfy-/view)
+  - Selected as one of four finalists to compete for the MCBIOS 2023 Young Scientist Excellence Award (YSEA) in the Student category
 - Shengen Shawn Hu, Lin Liu, Qi Li, **Wenjng Ma**, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA. *Nature Communications*, (2022). [DOI](https://*doi*.org/*10.1038*/*s41467*-*022-33194*-*z*), [package](https://github.com/zang-lab/SELMA)
 - **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. *Briefings in Bioinformatics*, (2022). [DOI](https://doi.org/10.1093/bib/bbac063), [R package](bioconductor.org/packages/release/bioc/html/LRcell.html)
   - Talk at *AWSOM workshop*, Atlanta, GA, U.S. Apr 2022. [Agenda](https://research.gatech.edu/data/events/awsom/agenda)
@@ -35,10 +38,6 @@ author_profile: true
 
 ### Under Review
 
-- **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Under revision at Nature Communications, (2022). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
-  - Poster won [**3rd place** (out of 47)](https://franklin.uga.edu/news/stories/2022/uga-welcomed-academic-industry-partners-georgia-statistics-day) at *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2022. 
-  - [**2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award**](https://drive.google.com/file/d/16QTIPtHfQhACbifpEt8HCOSJCIJSYfy-/view)
-  - Selected as one of four finalists to compete for the MCBIOS 2023 Young Scientist Excellence Award (YSEA) in the Student category
 - Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under revision, (2021).
 
 ### Posters
