@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Wenjing Ma"
   avatar           : "profile.png"
-  bio              : "Aiming for an abundance mindset. // Live a meaningful life."
-  location         : "Atlanta, GA, United States"
+  bio              : "Aiming for an abundance mindset. | 完成大于完美。"
+  location         : "Ann Arbor, MI, United States"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=yQOhaRAAAAAJ"
-  email            : 
+  email            : "mawenjing1993@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-      #  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8757-651X"
   pinterest        :
   soundcloud       :
   stackoverflow    : "6546674/wenjing-ma"

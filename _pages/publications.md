@@ -21,7 +21,7 @@ author_profile: true
 ### Published papers
 - **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Nature Communications (In press), (2022). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
   - Poster won [**3rd place** (out of 47)](https://franklin.uga.edu/news/stories/2022/uga-welcomed-academic-industry-partners-georgia-statistics-day) at *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2022. 
-  - [**2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award**](https://drive.google.com/file/d/16QTIPtHfQhACbifpEt8HCOSJCIJSYfy-/view)
+  - [**2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award**](https://drive.google.com/file/d/16QTIPtHfQhACbifpEt8HCOSJCIJSYfy-/view), [SSGG Interview (Page 9)](https://www.dropbox.com/s/691ic9djn9wgd3c/Newsletter_SSGG_2023Jun.pdf?dl=0)
   - Selected as one of four finalists to compete for the MCBIOS 2023 Young Scientist Excellence Award (YSEA) in the Student category
 - Shengen Shawn Hu, Lin Liu, Qi Li, **Wenjng Ma**, Michael J. Guertin, Clifford A. Meyer, Ke Deng, Tingting Zhang, Chongzhi Zang. Intrinsic bias estimation for improved analysis of bulk and single-cell chromatin accessibility profiles using SELMA. *Nature Communications*, (2022). [DOI](https://*doi*.org/*10.1038*/*s41467*-*022-33194*-*z*), [package](https://github.com/zang-lab/SELMA)
 - **Wenjing Ma**, Sumeet Sharma, Peng Jin, Shannon L. Gourley, Zhaohui Qin. LRcell: detecting the source of differential expression at the sub-cell type level from bulk RNA-seq data. *Briefings in Bioinformatics*, (2022). [DOI](https://doi.org/10.1093/bib/bbac063), [R package](bioconductor.org/packages/release/bioc/html/LRcell.html)
@@ -42,14 +42,14 @@ author_profile: true
 
 ### Posters
 
-- BARTweb
+- BARTweb *@ RECOMB 2019*
 
-  <img src="images/RECOMB2019_poster.png" width=300 />
+  <img src="/images/RECOMB2019_poster.png" width=300 />
 
-- Benchmark scRNA-seq celltyping
+- Benchmark scRNA-seq celltyping *@ GSD 2021*
 
-  <img src="images/GSD2021_poster.png" width=300 />
+  <img src="/images/GSD2021_poster.png" width=300 />
 
-- Cellcano
+- Cellcano *@ GSD 2022*
 
-  <img src="images/GSD2022_poster.png" width=300 />
+  <img src="/images/GSD2022_poster.png" width=300 />
