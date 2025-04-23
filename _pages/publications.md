@@ -5,15 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  Full list of publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Full list of publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=yQOhaRAAAAAJ) <a href="">Google Scholar</a>
 
 (\*: equal distribution)
 
@@ -35,8 +33,6 @@ author_profile: true
 ### Collaboration papers
 
 - Yulin Jin, Kenong Su, Ha Eun Kong, **Wenjing Ma**, Zhiqin Wang, Yujing Li, Ronghua Li, Emily Allen, Hao Wu, Peng Jin. Cell-type specific DNA methylome signatures reveal epigenetic mechanisms for neuronal diversity and neurodevelopmental disorder. *Human Molecular Genetics*, (2022). [DOI](https://doi-org.proxy.library.emory.edu/10.1093/hmg/ddac189)
-
-### Under Review
 
 - Sumeet Sharma\*, **Wenjing Ma**\*, Kerry J. Ressler, Thea Anderson, Dan. C. Li, Peng Jin, Shannon L. Gourley, Zhaohui Qin. Dysregulation of prefrontal oligodendrocyte linage cells across mouse models of adversity and human major depressive disorder. Under revision, (2021).
 
