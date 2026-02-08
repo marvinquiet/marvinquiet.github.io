@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "WENJING MA"
 title_separator          : "-"
 name                     : &name "Wenjing Ma"
-description              : &description "Ph.D. Student in Computer Science at Emory"
+description              : &description "Assistant Professor @ SAI, CUHK-Shenzhen"
 url                      : https://marvinquiet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marvinquiet.github.io"
@@ -82,10 +82,10 @@ author:
   name             : "Wenjing Ma"
   avatar           : "profile.png"
   bio              : "Aiming for an abundance mindset. | 完成大于完美。"
-  location         : "Ann Arbor, MI, United States"
+  location         : "Shenzhen, P.R. China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=yQOhaRAAAAAJ"
-  email            : "mawenjing1993@gmail.com"
+  email            : "wma2026@cuhk.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
