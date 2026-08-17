@@ -17,6 +17,7 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 
 ### Featured Publications and Softwares
+
 - **Wenjing Ma**, Jiaying Lu, Hao Wu. Cellcano: supervised cell type identification for single cell ATAC-seq data. Nature Communications, (2023). [DOI](https://doi.org/10.21203/rs.3.rs-1717357/v1), [Cellcano package](https://marvinquiet.github.io/Cellcano/)
   - Poster won [**3rd place** (out of 47)](https://franklin.uga.edu/news/stories/2022/uga-welcomed-academic-industry-partners-georgia-statistics-day) at *Georgia Statistics day*, Atlanta, GA, U.S. Oct 2022. 
   - [**2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award**](https://drive.google.com/file/d/16QTIPtHfQhACbifpEt8HCOSJCIJSYfy-/view), [SSGG Interview (Page 9)](https://www.dropbox.com/s/691ic9djn9wgd3c/Newsletter_SSGG_2023Jun.pdf?dl=0)
