@@ -4,19 +4,22 @@ main:
     url: /publications/
 
   - title: "Softwares"
-    url: /softwares/    
+    url: /softwares/
+
+  - title: "Teams"
+    url: /teams/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /files/CV_WenjingMa.pdf
-    
+
   # - title: "Guide"
   #   url: /markdown/
